@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-
+<a href="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/94d928a2-5aa3-42bd-b88c-6d662de8b8c0"><img src="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/94d928a2-5aa3-42bd-b88c-6d662de8b8c0.svg" alt="wakatime"></a>
 </p>
 
 ## 💻 Projeto
