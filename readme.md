@@ -16,7 +16,7 @@
 
 Repositorio do curso "TDD na prática com Java" da Rocketseat Plus ministrado pela Ana Beatriz Neri.
 
-Aprender como aplicar o fluxo do TDD num serviço usando Spring e Java 11, desde testes unitários até testes de integração usando JUnit 5
+Aprender como aplicar o fluxo do TDD num serviço usando Spring e Java 11, desde testes unitários até testes de integração usando JUnit 5.
 
 ## 🚀 Tecnologias
 
